@@ -3,7 +3,7 @@
 # Determined Predictors
 
 ## Dividend yield and payout ratio
-The first step is to look at two key ratios: dividend yield and payout ratio. Dividend yield is the annual dividend per share divided by the current share price. It tells you how much income you can get from investing in a company. Payout ratio is the percentage of earnings that a company pays out as dividends. It tells you how sustainable and flexible the dividend policy is. You can compare these ratios across different companies and industries to find out which ones offer higher returns and lower risks.
+The first step is to look at two key ratios: dividend yield and payout ratio. Dividend yield is the annual dividend per share divided by the current share price. It tells you how much income you can get from investing in a company. Payout ratio is the percentage of earnings that a company pays out as dividends. It tells you how sustainable and flexible the dividend policy is. It also indicates a company's level of maturity. You can compare these ratios across different companies and industries to find out which ones offer higher returns and lower risks.
 
 ## Dividend growth rate and consistency
 The second step is to look at how fast and how regularly a company increases its dividends. Dividend growth rate is the annual percentage change in dividend per share. It tells you how much the dividend income can grow over time. Consistency is the number of consecutive years that a company has maintained or raised its dividends. It tells you how reliable and stable the dividend policy is. You can use historical data and charts to track these metrics and identify patterns and trends.
@@ -21,27 +21,28 @@ The fifth step is to consider the option of reinvesting your dividends instead o
 ## Dividend risk and diversification
 The final step is to be aware of the potential risks and challenges associated with dividend investing. Dividend risk is the possibility that a company may cut or suspend its dividends due to financial difficulties, regulatory changes, or strategic shifts. This can reduce your income and lower your share price. Diversification is the strategy of spreading your investments across different companies, sectors, and markets. This can reduce your exposure to specific dividend risks and increase your chances of finding profitable opportunities.
 
-
 ## Liquidity Indicators 
-Net working capital = current asset - current liabilities 
-Current ratio = total current asset / total current liability 
-Quick ratio = (cash (& cash equivalent) + accounts receivable) / total current liability
-Cash ratio = cash (& cash equivalent) / total current liability
-Debt to Equity Ratio = Total Debt / Owner or Shareholders’ Equity
+Liquidity ratios are used to determine a company’s ability to pay its short-term debt obligations. 
+- Net working capital = current asset - current liabilities
+It is a measure of a company’s liquidity and its ability to meet short-term obligations, as well as fund operations of the business. Since the dividend is typically paid within 12 months, the dividend would be classified as a current liability. As you can see in the visual below, when the company records the dividend, current liabilities increase, which cause net working capital to decrease.
+- Cash ratio = cash (& cash equivalent) / total current liability
+The cash ratio is a liquidity ratio that measures a company's ability to pay off short-term liabilities with highly liquid assets. Compared to the current ratio and the quick ratio, it is a more conservative measure of a company's liquidity position.
+- Debt to Equity Ratio = Total Debt / Owner or Shareholders’ Equity
 The debt to equity ratio tells you how much your business depends on equity versus borrowed money.
 
 ## Profitability indicators
-Net profit margin = Net Income / Sales Revenue
-it’s the total amount you keep after taking every expense into account.
-Gross Profit Margin = (Sales Revenue – COGS) / Sales Revenue
-Your gross profit margin is how much money your business makes per dollar earned, only taking into account COGS. You can increase this margin by lowering COGS—saving money on the wholesale cost of goods and services—or by raising prices…
+The following ratios convey how well a company can generate profits from its operations: net profit margin, gross profit margin.
+- Net profit margin = Net Income / Sales Revenue
+Net profit margin is the total amount you keep after taking every expense into account. Net profit margin helps investors assess if a company’s management is generating enough profit from its sales and whether operating costs and overhead costs are under control. It is one of the most important indicators of a company’s overall financial health.
+- Gross Profit Margin = (Sales Revenue – COGS) / Sales Revenue
+A company's gross profit margin is the money it makes after accounting for the cost of doing business. Your gross profit margin is how much money your business makes per dollar earned, only taking into account COGS. You can increase this margin by lowering COGS—saving money on the wholesale cost of goods and services—or by raising prices.
 
 ## Cash flow Indicators 
+There are 3 main ratios that are associated with cash flow statement, which indicate a company's financial health and their ability to pay out dividends.
 - Current liability coverage ratio = Net Cash from Operating Activities / Average Current Liabilities
-The current liability coverage ratio tells you how much cash flow you have for a specific period versus how much debt you need to pay in the near future—typically, within one year’s time.
+The current liability coverage ratio tells you how much cash flow you have for a specific period versus how much debt you need to pay in the near future—typically, within one year’s time. A current liability coverage ratio of less than 1:1 shows the business isn’t generating enough cash to pay for its immediate obligations.
 - Cash Flow Coverage Ratio = Net Cash Flow from Operations / Total Debt
-measures how well you’re able to pay off debt with cash. However, this ratio takes into account all debt, both long term and short term.
-Cash flow coverage is calculated on a large scale—yearly, rather than monthly
+The Cash Flow Coverage Ratio measures how well you’re able to pay off debt with cash. However, this ratio takes into account all debt, both long term and short term. Cash flow coverage is calculated on a large scale—yearly, rather than monthly. Generally, experts recommend you keep your cash flow coverage ratio above 1.0 to attract investors.
 - Cash Flow Margin = Net Cash from Operating Activities / Net Sales
 The cash flow margin ratio tells you how much cash you earned for every dollar in sales for a reporting period.
 

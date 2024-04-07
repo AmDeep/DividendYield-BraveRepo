@@ -24,3 +24,5 @@ The final step is to be aware of the potential risks and challenges associated w
 
 #### References
 ##### [1] https://core.ac.uk/download/pdf/33812229.pdf
+##### [2] https://hrcak.srce.hr/file/419287
+##### [3] https://www.tandfonline.com/doi/full/10.1080/1331677X.2019.1631201

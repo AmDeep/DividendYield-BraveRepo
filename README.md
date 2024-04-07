@@ -26,3 +26,10 @@ The final step is to be aware of the potential risks and challenges associated w
 ##### [1] https://core.ac.uk/download/pdf/33812229.pdf
 ##### [2] https://hrcak.srce.hr/file/419287
 ##### [3] https://www.tandfonline.com/doi/full/10.1080/1331677X.2019.1631201
+##### [4] https://www.proquest.com/openview/e522a1616cb656ca091d10611f638302/1?pq-origsite=gscholar&cbl=696409
+##### [5] https://ideas.repec.org/a/rau/journl/v4y2009i2p83-88.html
+##### [6] https://arxiv.org/ftp/arxiv/papers/2207/2207.00715.pdf
+##### [7] https://www.spglobal.com/spdji/en/documents/research/research-a-case-for-dividend-growth-strategies.pdf
+##### [8] https://www.hartfordfunds.com/dam/en/docs/pub/whitepapers/WP106.pdf
+##### [9] https://www.globalxetfs.com/content/files/High-Dividend-Stocks-In-Rising-Interest-Rate-Environments.pdf
+##### [10] https://www.diva-portal.org/smash/get/diva2:538687/fulltext02.pdf

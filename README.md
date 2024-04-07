@@ -27,6 +27,7 @@ Liquidity ratios are used to determine a company’s ability to pay its short-te
 It is a measure of a company’s liquidity and its ability to meet short-term obligations, as well as fund operations of the business. Since the dividend is typically paid within 12 months, the dividend would be classified as a current liability. As you can see in the visual below, when the company records the dividend, current liabilities increase, which cause net working capital to decrease.
 - Cash ratio = cash (& cash equivalent) / total current liability ||||
 The cash ratio is a liquidity ratio that measures a company's ability to pay off short-term liabilities with highly liquid assets. Compared to the current ratio and the quick ratio, it is a more conservative measure of a company's liquidity position.
+
 Since companies need liquid assets to be able to pay dividends to shareholders by the end of the fiscal year, the more liquid an asset is, and the more of it is owned by the company (equity) rather than borrowed money, the company would be in a better financial position to pay dividends. 
 
 ## Solvency Indicators

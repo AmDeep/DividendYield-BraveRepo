@@ -23,39 +23,40 @@ The final step is to be aware of the potential risks and challenges associated w
 
 ## Liquidity Indicators 
 Liquidity ratios are used to determine a company’s ability to pay its short-term debt obligations. 
-- Net working capital = current asset - current liabilities
+- Net working capital = current asset - current liabilities ||||
 It is a measure of a company’s liquidity and its ability to meet short-term obligations, as well as fund operations of the business. Since the dividend is typically paid within 12 months, the dividend would be classified as a current liability. As you can see in the visual below, when the company records the dividend, current liabilities increase, which cause net working capital to decrease.
-- Cash ratio = cash (& cash equivalent) / total current liability
+- Cash ratio = cash (& cash equivalent) / total current liability ||||
 The cash ratio is a liquidity ratio that measures a company's ability to pay off short-term liabilities with highly liquid assets. Compared to the current ratio and the quick ratio, it is a more conservative measure of a company's liquidity position.
 Since companies need liquid assets to be able to pay dividends to shareholders by the end of the fiscal year, the more liquid an asset is, and the more of it is owned by the company (equity) rather than borrowed money, the company would be in a better financial position to pay dividends. 
 
 ## Solvency Indicators
 A solvency ratio indicates whether a company’s cash flow is sufficient to meet its long-term liabilities and thus is a measure of its financial health. An unfavorable ratio can indicate some likelihood that a company will default on its debt obligations.
-- Debt to Equity Ratio = Total Debt / Owner or Shareholders’ Equity
+- Debt to Equity Ratio = Total Debt / Owner or Shareholders’ Equity ||||
 The debt to equity ratio tells you how much your business depends on equity versus borrowed money.
-- Debts-to-Assets Ratio = Debt/Assets
+- Debts-to-Assets Ratio = Debt/Assets ||||
 The debt-to-assets ratio measures a company's total debt to its total assets. It measures a company's leverage and indicates how much of the company is funded by debt versus assets, and therefore, its ability to pay off its debt with its available assets. A higher ratio, especially above 1.0, indicates that a company is significantly funded by debt and may have difficulty meetings its obligations.
-- Shareholder Equity Ratio = Total Shareholder Equity / Total Assets
+- Shareholder Equity Ratio = Total Shareholder Equity / Total Assets ||||
 The equity ratio, or equity-to-assets, shows how much of a company is funded by equity as opposed to debt. The higher the number, the healthier a company is. The lower the number, the more debt a company has on its books relative to equity.
 
 Since dividends are to be continuously paid going into the long-term, if a company's long-term financial status (especially in the next fiscal year) looks bad, and the company is relying more on debts than equity, they would have to make a dividend cut. 
 
 ## Profitability Indicators
 Profitability ratios assess a company's ability to earn profits from its sales or operations, balance sheet assets, or shareholders' equity. They indicate how efficiently a company generates profit and value for shareholders.
-- Net profit margin = Net Income / Sales Revenue
+- Net profit margin = Net Income / Sales Revenue ||||
 Net profit margin is the total amount you keep after taking every expense into account. Net profit margin helps investors assess if a company’s management is generating enough profit from its sales and whether operating costs and overhead costs are under control. It is one of the most important indicators of a company’s overall financial health.
-- Gross Profit Margin = (Sales Revenue – COGS) / Sales Revenue
+- Gross Profit Margin = (Sales Revenue – COGS) / Sales Revenue ||||
 A company's gross profit margin is the money it makes after accounting for the cost of doing business. Your gross profit margin is how much money your business makes per dollar earned, only taking into account COGS.
+
 If the company is not generating sufficient profits, the company might have to make dividend cuts in the next fiscal year, to prioritize paying for its liabilities. This is because dividends are usually paid from the extra cash a company has, and if the company is not generating sufficient profits to pay its short-term and long-term liabilities, it will take its extra cash to pay for those liabilities and not pay as much dividends to the shareholders.
 
 
 ## Cash flow Indicators 
 There are 3 main ratios that are associated with cash flow statement, which indicate a company's financial health and their ability to pay out dividends.
-- Current liability coverage ratio = Net Cash from Operating Activities / Average Current Liabilities
+- Current liability coverage ratio = Net Cash from Operating Activities / Average Current Liabilities ||||
 The current liability coverage ratio tells you how much cash flow you have for a specific period versus how much debt you need to pay in the near future—typically, within one year’s time. A current liability coverage ratio of less than 1:1 shows the business isn’t generating enough cash to pay for its immediate obligations.
-- Cash Flow Coverage Ratio = Net Cash Flow from Operations / Total Debt
+- Cash Flow Coverage Ratio = Net Cash Flow from Operations / Total Debt ||||
 The Cash Flow Coverage Ratio measures how well you’re able to pay off debt with cash. However, this ratio takes into account all debt, both long term and short term. Cash flow coverage is calculated on a large scale—yearly, rather than monthly. Generally, experts recommend you keep your cash flow coverage ratio above 1.0 to attract investors.
-- Cash Flow Margin = Net Cash from Operating Activities / Net Sales
+- Cash Flow Margin = Net Cash from Operating Activities / Net Sales ||||
 The cash flow margin ratio tells you how much cash you earned for every dollar in sales for a reporting period.
 
 Cash is the most liquid asset a company has, and it helps them pay for their most immediate obligations and long-term debts. Usually, a company pays out dividends from the extra cash they have, but if the company doesn't have sufficient cash and other assets need to be converted into cash by selling them, then that will be problematic because then the company will use that cash to pay for liabilities, and would have to make dividend cuts. 

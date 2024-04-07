@@ -22,6 +22,30 @@ The fifth step is to consider the option of reinvesting your dividends instead o
 The final step is to be aware of the potential risks and challenges associated with dividend investing. Dividend risk is the possibility that a company may cut or suspend its dividends due to financial difficulties, regulatory changes, or strategic shifts. This can reduce your income and lower your share price. Diversification is the strategy of spreading your investments across different companies, sectors, and markets. This can reduce your exposure to specific dividend risks and increase your chances of finding profitable opportunities.
 
 
+## Liquidity Indicators 
+Net working capital = current asset - current liabilities 
+Current ratio = total current asset / total current liability 
+Quick ratio = (cash (& cash equivalent) + accounts receivable) / total current liability
+Cash ratio = cash (& cash equivalent) / total current liability
+Debt to Equity Ratio = Total Debt / Owner or Shareholders’ Equity
+The debt to equity ratio tells you how much your business depends on equity versus borrowed money.
+
+## Profitability indicators
+Net profit margin = Net Income / Sales Revenue
+it’s the total amount you keep after taking every expense into account.
+Gross Profit Margin = (Sales Revenue – COGS) / Sales Revenue
+Your gross profit margin is how much money your business makes per dollar earned, only taking into account COGS. You can increase this margin by lowering COGS—saving money on the wholesale cost of goods and services—or by raising prices…
+
+## Cash flow Indicators 
+- Current liability coverage ratio = Net Cash from Operating Activities / Average Current Liabilities
+The current liability coverage ratio tells you how much cash flow you have for a specific period versus how much debt you need to pay in the near future—typically, within one year’s time.
+- Cash Flow Coverage Ratio = Net Cash Flow from Operations / Total Debt
+measures how well you’re able to pay off debt with cash. However, this ratio takes into account all debt, both long term and short term.
+Cash flow coverage is calculated on a large scale—yearly, rather than monthly
+- Cash Flow Margin = Net Cash from Operating Activities / Net Sales
+The cash flow margin ratio tells you how much cash you earned for every dollar in sales for a reporting period.
+
+
 #### References
 ##### [1] https://core.ac.uk/download/pdf/33812229.pdf
 ##### [2] https://hrcak.srce.hr/file/419287
